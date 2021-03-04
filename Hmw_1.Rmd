@@ -1,0 +1,12 @@
+---
+title: "Homework_1"
+output: html_document
+---
+
+```{r}
+x = 1
+y = 2
+x + y
+```
+
+
