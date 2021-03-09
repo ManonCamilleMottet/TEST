@@ -22,4 +22,21 @@ x + y
 5+5
 ```
 
+```{r Emojis}
+library("emojifont")
+emoji(search_emoji('peach'))
+emoji(search_emoji('salad'))
+```
+```{r Pictures}
+![Flash Crash](<img src="https://moneymorning.com/wp-content/blogs.dir/1/files/2013/04/Twitter-flash-crash-1280x720.png" width="670" height="376" />)
+```
+```{r}
+![Geneva!](https://cdn.loisirs.ch/media/cache/default_block_widget/default/0001/38/37132_default_block_widget.jpg)
+```
+```{r}
+![Try !!!](https://cdn.loisirs.ch/media/cache/default_block_widget/default/0001/38/37132_default_block_widget.jpg)
+```
+![Geneva!](https://cdn.loisirs.ch/media/cache/default_block_widget/default/0001/38/37132_default_block_widget.jpg)
+
+![Flash Crash](https://moneymorning.com/wp-content/blogs.dir/1/files/2013/04/Twitter-flash-crash-1280x720.png)
 
